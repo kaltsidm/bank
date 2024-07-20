@@ -1,5 +1,5 @@
 class Customer:
-	'''This class developed by durga 
+	'''This class developed by mike 
 	and descibes bank operations'''
 	bankname = 'MYBANK'
 	def __init__(self, name, balance = 0.0):
